@@ -31,7 +31,7 @@ To build from source you will need to ensure the following prerequisites are met
 There are a few prerequisites you'll need to install on your machine before you can start developing.
 
 Once you've installed all the dependencies listed here, run `make init` to install the rest.
-
+ 
 #### Go
 
 The Amazon Genomics CLI is written in Go.
