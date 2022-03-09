@@ -49,8 +49,5 @@ jobs:
 
       - name: Deploy To Pages
         uses: peaceiris/actions-gh-pages@v3           # see https://github.com/peaceiris/actions-gh-pages for details
-        if: ${{ github.ref == 'refs/heads/main' }}    # set to 'refs/heads/main' to only deploy when the branch is main
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages                    # set to 'gh-pages to publish to github pages'
-          publish_dir: ./docs                         # Deploy the contents of ./docs to github pages
+        run: >
+          ${{ github.ref }}
