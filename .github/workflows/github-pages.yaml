@@ -48,5 +48,9 @@ jobs:
           make docs
 
       - name: Deploy To Pages
-        run: >
-          ${{ github.ref }}
+        uses: peaceiris/actions-gh-pages@v3           # see https://github.com/peaceiris/actions-gh-pages for details
+        if: ${{ github.ref == 'refs/heads/release' }} # set to 'refs/heads/release' to only deploy when the branch is release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages                    # set to 'gh-pages to publish to github pages'
+          publish_dir: ./docs                         # Deploy the contents of ./docs to github pages
