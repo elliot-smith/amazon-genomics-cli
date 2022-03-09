@@ -16,7 +16,7 @@
     <item>
       <title>Docs: agc</title>
       <link>/amazon-genomics-cli/docs/reference/agc/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc/</guid>
       <description>
@@ -44,6 +44,7 @@ Configuration is stored per user.&lt;/li&gt;
 Contexts specify workflow engines and computational fleets to use when running a workflow.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/amazon-genomics-cli/amazon-genomics-cli/docs/reference/agc_logs/&#34;&gt;agc logs&lt;/a&gt;	 - Commands for various logs.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/amazon-genomics-cli/amazon-genomics-cli/docs/reference/agc_project/&#34;&gt;agc project&lt;/a&gt;	 - Commands to interact with projects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/amazon-genomics-cli/amazon-genomics-cli/docs/reference/agc_version/&#34;&gt;agc version&lt;/a&gt;	 - Print the version number.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/amazon-genomics-cli/amazon-genomics-cli/docs/reference/agc_workflow/&#34;&gt;agc workflow&lt;/a&gt;	 - Commands for workflows.
 Workflows are potentially-dynamic graphs of computational tasks to execute.&lt;/li&gt;
 &lt;/ul&gt;
@@ -54,7 +55,7 @@ Workflows are potentially-dynamic graphs of computational tasks to execute.&lt;/
     <item>
       <title>Docs: agc account</title>
       <link>/amazon-genomics-cli/docs/reference/agc_account/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_account/</guid>
       <description>
@@ -85,7 +86,7 @@ These commands should be used to install or remove AGC from your AWS account.&lt
     <item>
       <title>Docs: agc account activate</title>
       <link>/amazon-genomics-cli/docs/reference/agc_account_activate/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_account_activate/</guid>
       <description>
@@ -123,7 +124,7 @@ Install or remove AGC from your account.&lt;/li&gt;
     <item>
       <title>Docs: agc account deactivate</title>
       <link>/amazon-genomics-cli/docs/reference/agc_account_deactivate/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_account_deactivate/</guid>
       <description>
@@ -161,7 +162,7 @@ Install or remove AGC from your account.&lt;/li&gt;
     <item>
       <title>Docs: agc completion</title>
       <link>/amazon-genomics-cli/docs/reference/agc_completion/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_completion/</guid>
       <description>
@@ -191,7 +192,7 @@ See each sub-command&amp;rsquo;s help for details on how to use the generated sc
     <item>
       <title>Docs: agc completion bash</title>
       <link>/amazon-genomics-cli/docs/reference/agc_completion_bash/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_completion_bash/</guid>
       <description>
@@ -228,7 +229,7 @@ $ agc completion bash &amp;gt; /usr/local/etc/bash_completion.d/agc&lt;/p&gt;
     <item>
       <title>Docs: agc completion fish</title>
       <link>/amazon-genomics-cli/docs/reference/agc_completion_fish/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_completion_fish/</guid>
       <description>
@@ -260,7 +261,7 @@ $ agc completion fish &amp;gt; ~/.config/fish/completions/agc.fish&lt;/p&gt;
     <item>
       <title>Docs: agc completion powershell</title>
       <link>/amazon-genomics-cli/docs/reference/agc_completion_powershell/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_completion_powershell/</guid>
       <description>
@@ -291,7 +292,7 @@ to your powershell profile.&lt;/p&gt;
     <item>
       <title>Docs: agc completion zsh</title>
       <link>/amazon-genomics-cli/docs/reference/agc_completion_zsh/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_completion_zsh/</guid>
       <description>
@@ -327,7 +328,7 @@ to enable it.  You can execute the following once:&lt;/p&gt;
     <item>
       <title>Docs: agc configure</title>
       <link>/amazon-genomics-cli/docs/reference/agc_configure/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_configure/</guid>
       <description>
@@ -357,7 +358,7 @@ Configure local settings and preferences to customize the CLI experience.&lt;/p&
     <item>
       <title>Docs: agc configure describe</title>
       <link>/amazon-genomics-cli/docs/reference/agc_configure_describe/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_configure_describe/</guid>
       <description>
@@ -388,7 +389,7 @@ Configuration is stored per user.&lt;/li&gt;
     <item>
       <title>Docs: agc configure email</title>
       <link>/amazon-genomics-cli/docs/reference/agc_configure_email/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_configure_email/</guid>
       <description>
@@ -414,7 +415,7 @@ Configuration is stored per user.&lt;/li&gt;
     <item>
       <title>Docs: agc context</title>
       <link>/amazon-genomics-cli/docs/reference/agc_context/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_context/</guid>
       <description>
@@ -449,7 +450,7 @@ particular context.&lt;/p&gt;
     <item>
       <title>Docs: agc context deploy</title>
       <link>/amazon-genomics-cli/docs/reference/agc_context_deploy/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_context_deploy/</guid>
       <description>
@@ -487,7 +488,7 @@ Contexts specify workflow engines and computational fleets to use when running a
     <item>
       <title>Docs: agc context describe</title>
       <link>/amazon-genomics-cli/docs/reference/agc_context_describe/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_context_describe/</guid>
       <description>
@@ -522,7 +523,7 @@ Contexts specify workflow engines and computational fleets to use when running a
     <item>
       <title>Docs: agc context destroy</title>
       <link>/amazon-genomics-cli/docs/reference/agc_context_destroy/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_context_destroy/</guid>
       <description>
@@ -556,7 +557,7 @@ Contexts specify workflow engines and computational fleets to use when running a
     <item>
       <title>Docs: agc context list</title>
       <link>/amazon-genomics-cli/docs/reference/agc_context_list/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_context_list/</guid>
       <description>
@@ -587,7 +588,7 @@ Contexts specify workflow engines and computational fleets to use when running a
     <item>
       <title>Docs: agc context status</title>
       <link>/amazon-genomics-cli/docs/reference/agc_context_status/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_context_status/</guid>
       <description>
@@ -620,7 +621,7 @@ Contexts specify workflow engines and computational fleets to use when running a
     <item>
       <title>Docs: agc logs</title>
       <link>/amazon-genomics-cli/docs/reference/agc_logs/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_logs/</guid>
       <description>
@@ -654,7 +655,7 @@ access rights to.&lt;/p&gt;
     <item>
       <title>Docs: agc logs access</title>
       <link>/amazon-genomics-cli/docs/reference/agc_logs_access/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_logs_access/</guid>
       <description>
@@ -698,7 +699,7 @@ If no start, end, or look back periods are set, this command will show logs from
     <item>
       <title>Docs: agc logs adapter</title>
       <link>/amazon-genomics-cli/docs/reference/agc_logs_adapter/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_logs_adapter/</guid>
       <description>
@@ -742,7 +743,7 @@ If no start, end, or look back periods are set, this command will show logs from
     <item>
       <title>Docs: agc logs engine</title>
       <link>/amazon-genomics-cli/docs/reference/agc_logs_engine/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_logs_engine/</guid>
       <description>
@@ -786,7 +787,7 @@ If no start, end, or look back periods are set, this command will show logs from
     <item>
       <title>Docs: agc logs workflow</title>
       <link>/amazon-genomics-cli/docs/reference/agc_logs_workflow/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_logs_workflow/</guid>
       <description>
@@ -828,7 +829,7 @@ If the &amp;ndash;run flag is omitted then the latest workflow run is used.&lt;/
     <item>
       <title>Docs: agc project</title>
       <link>/amazon-genomics-cli/docs/reference/agc_project/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_project/</guid>
       <description>
@@ -857,7 +858,7 @@ and contexts you are working with.&lt;/p&gt;
     <item>
       <title>Docs: agc project describe</title>
       <link>/amazon-genomics-cli/docs/reference/agc_project_describe/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_project_describe/</guid>
       <description>
@@ -889,7 +890,7 @@ DATA: Location ReadOnly&lt;/p&gt;
     <item>
       <title>Docs: agc project init</title>
       <link>/amazon-genomics-cli/docs/reference/agc_project_init/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_project_init/</guid>
       <description>
@@ -919,9 +920,33 @@ Initialize a new project named &amp;quot;myProject&amp;quot;.
     </item>
     
     <item>
+      <title>Docs: agc version</title>
+      <link>/amazon-genomics-cli/docs/reference/agc_version/</link>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
+      
+      <guid>/amazon-genomics-cli/docs/reference/agc_version/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;agc-version&#34;&gt;agc version&lt;/h2&gt;
+&lt;p&gt;Print the version number.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;agc version [flags]
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;options&#34;&gt;Options&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;  -h, --help   help for version
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;options-inherited-from-parent-commands&#34;&gt;Options inherited from parent commands&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;  -v, --verbose   Display verbose diagnostic information.
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;see-also&#34;&gt;SEE ALSO&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/amazon-genomics-cli/amazon-genomics-cli/docs/reference/agc/&#34;&gt;agc&lt;/a&gt;	 - 🧬 Launch and manage genomics workloads on AWS.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: agc workflow</title>
       <link>/amazon-genomics-cli/docs/reference/agc_workflow/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_workflow/</guid>
       <description>
@@ -957,7 +982,7 @@ typed according to which workflow definition language they use (e.g. WDL).&lt;/p
     <item>
       <title>Docs: agc workflow describe</title>
       <link>/amazon-genomics-cli/docs/reference/agc_workflow_describe/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_workflow_describe/</guid>
       <description>
@@ -989,7 +1014,7 @@ Workflows are potentially-dynamic graphs of computational tasks to execute.&lt;/
     <item>
       <title>Docs: agc workflow list</title>
       <link>/amazon-genomics-cli/docs/reference/agc_workflow_list/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_workflow_list/</guid>
       <description>
@@ -1020,7 +1045,7 @@ Workflows are potentially-dynamic graphs of computational tasks to execute.&lt;/
     <item>
       <title>Docs: agc workflow run</title>
       <link>/amazon-genomics-cli/docs/reference/agc_workflow_run/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_workflow_run/</guid>
       <description>
@@ -1056,7 +1081,7 @@ Workflows are potentially-dynamic graphs of computational tasks to execute.&lt;/
     <item>
       <title>Docs: agc workflow status</title>
       <link>/amazon-genomics-cli/docs/reference/agc_workflow_status/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_workflow_status/</guid>
       <description>
@@ -1086,7 +1111,7 @@ Workflows are potentially-dynamic graphs of computational tasks to execute.&lt;/
     <item>
       <title>Docs: agc workflow stop</title>
       <link>/amazon-genomics-cli/docs/reference/agc_workflow_stop/</link>
-      <pubDate>Wed, 06 Oct 2021 01:09:19 +0000</pubDate>
+      <pubDate>Wed, 09 Mar 2022 19:41:13 +0000</pubDate>
       
       <guid>/amazon-genomics-cli/docs/reference/agc_workflow_stop/</guid>
       <description>
